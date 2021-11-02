@@ -1,5 +1,5 @@
 # Code Written By Miegrat Sammri
-# Make sure to cite as [www.github.com/GrimScythe2001/] when used this code format or reference anywhere in your project.
+# Make sure to cite as [https://github.com/GrimScythe2001/Data-Preprocessing] when used this code format or reference anywhere in your project.
 
 # Data Preprocessing for Excel CSV Files
 # Generating Output of thousands of csv data in row-wise format
